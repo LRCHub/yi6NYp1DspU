@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "morning routine",
+  "base_artist": "The Yellow House",
+  "createdAt": "2026-02-20T14:21:48.088800Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Morning Routine",
+      "artist": "Colours in the Street",
+      "has_synced": true,
+      "path": "select/01_Morning_Routine_Colours_in_the_Street.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Opening (Morning Routine)",
+      "artist": "Matt Smith",
+      "has_synced": false,
+      "path": "select/02_Opening_(Morning_Routine)_Matt_Smith.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Morning Routine",
+      "artist": "Lovarran",
+      "has_synced": true,
+      "path": "select/03_Morning_Routine_Lovarran.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Morning Routine",
+      "artist": "Mauvaise Bouche",
+      "has_synced": true,
+      "path": "select/04_Morning_Routine_Mauvaise_Bouche.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Morning Routine",
+      "artist": "Sushi Soucy",
+      "has_synced": false,
+      "path": "select/05_Morning_Routine_Sushi_Soucy.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "School Morning Routine",
+      "artist": "Cocomelon",
+      "has_synced": true,
+      "path": "select/06_School_Morning_Routine_Cocomelon.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "morning routine (feat. 映秀。)",
+      "artist": "The Yellow House",
+      "has_synced": false,
+      "path": "select/pl_01_morning_routine_(feat._映秀。)_The_Yellow_House.txt"
+    }
+  ]
+}
